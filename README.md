@@ -1,3 +1,4 @@
+<img src="banner_peitho.png" width="100%" />
 <div align="center">
 # PEITHO — The Synapse
 
