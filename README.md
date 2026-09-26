@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+# PEITHO — The Synapse
 
-<!--
-**0xPeitho/0xPeitho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't hack systems. I hack beliefs.
 
-Here are some ideas to get you started:
+🌐 peitho.sh | Influence Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> peitho (πειθώ) =  Tejedor de voluntades.
+
+</div>
+
+### What I do
+Influence Engineering / Systems / Security
+
+### Contact
+github.com/0xPeitho
